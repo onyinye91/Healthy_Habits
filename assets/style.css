@@ -1,0 +1,14 @@
+body{
+    
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+#foot {
+    background-color: grey;
+    padding: 30px;
+}
